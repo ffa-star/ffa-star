@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ffa-star
-- 👀 I’m interested in interesting
+- 👀 I’m interested in interesting things
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on interesting
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
